@@ -19,7 +19,7 @@ body.dark header {
 }
 
 #imagen {
-  margin-left: 10px;
+  margin-left: 40px;
   width: 150px;
   height: 150px;
   -webkit-animation-name: animacion;
@@ -104,6 +104,8 @@ body.dark {
   font-family: "Aboreto", cursive;
   width: 100%;
   padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
   display: flex;
   flex-direction: column;
   align-items: left;
@@ -111,7 +113,6 @@ body.dark {
   text-transform: capitalize;
   -webkit-text-decoration: solid;
           text-decoration: solid;
-  padding-bottom: 10px;
   color: darkslategrey;
 }
 #títulos h1,
